@@ -1,9 +1,13 @@
-# progblack_2223_formative
+# Programming Black 2022-2023 Formative Assesment
+
 Welcome to our group formative work.
 
-Hi freddy
+## Our group
 
-Our group
--Jack
--James
--Freddy
+- Jack Saville Sneath
+- James Bartlett
+- Freddy Cunningham
+
+> No measure of time with you will be long enough, but we'll start with forever.
+>
+> -- <cite>Jack Saville Sneath</cite>
