@@ -4,10 +4,10 @@ Welcome to our group formative work.
 
 ## Our group
 
-- Jack
-- James
-- Freddy
+- Jack Saville Sneath
+- James Bartlett
+- Freddy Cunningham
 
 > No measure of time with you will be long enough, but we'll start with forever.
-
-Jack Saville Sneath
+>
+> -- <cite>Jack Saville Sneath</cite>
